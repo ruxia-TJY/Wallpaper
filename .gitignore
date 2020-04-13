@@ -3,3 +3,10 @@
 # 程序运行产生文件
 config.json
 /data
+
+
+# pyinstaller打包产生文件
+/__pycache__
+Wallpaper.spec
+/build
+/dist
