@@ -1,0 +1,5 @@
+/.idea
+
+# 程序运行产生文件
+config.json
+/data
